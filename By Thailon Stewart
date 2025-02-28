@@ -1,2 +1,12 @@
 # BinaryToDecimal.png
 converting Binary to decimal 
+First to convert Binary to decimal you need to covert each digit to the proper corresponding power of 2 then divide the values 
+In our case our Binary number is 10010101 and if you convert that number you get 149 
+149/2= 74 with a remainder of 1
+74/2= 37 with a remainder of 0
+37/2= 18 with a remainder of 1
+18/2= 9 with a remainder of 0
+9/2= 4 with a remainder of 1 
+4/2= 2 with a remainder of 0 
+2/2= 1 with a remainder of 0
+1/2= 0 with a remainder of 1 
